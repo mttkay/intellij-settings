@@ -473,6 +473,9 @@
         <option name="FOREGROUND" value="8ac6f2" />
       </value>
     </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value />
+    </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="93a2cc" />
