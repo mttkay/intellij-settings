@@ -1,5 +1,4 @@
 <scheme name="Kombat" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
@@ -7,7 +6,7 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="ffffff" />
+    <option name="ANNOTATIONS_COLOR" value="1d1d1d" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3a3a3a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
