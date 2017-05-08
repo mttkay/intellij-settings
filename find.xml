@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.gradleD" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,8 +23,8 @@
       <mask>*.scala</mask>
       <mask>*.gr</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*.gradleD</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
