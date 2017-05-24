@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
