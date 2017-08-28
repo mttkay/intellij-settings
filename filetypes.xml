@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern="Makefile" type="Makefile" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
