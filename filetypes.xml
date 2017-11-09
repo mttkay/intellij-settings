@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <removed_mapping pattern="makefile" type="Makefile" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
+      <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
