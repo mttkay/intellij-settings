@@ -7,9 +7,11 @@
       <mapping pattern="development-local" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern="with-config" type="PLAIN_TEXT" />
+      <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
