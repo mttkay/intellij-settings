@@ -2,8 +2,10 @@
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_PORT" value="51919" />
     <option name="COMPILE_SERVER_ID" value="5581c4a6-5bc0-45eb-ac42-1c6224e52e1b" />
+    <option name="USE_DEFAULT_SDK" value="false" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="6114" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4048" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xmx2G -Xms2G" />
     <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="60" />
   </component>
 </application>
