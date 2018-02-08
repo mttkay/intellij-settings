@@ -12,8 +12,6 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <removed_mapping pattern="Makefile" type="Makefile" />
-      <removed_mapping pattern="makefile" type="Makefile" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern="with-config" type="PLAIN_TEXT" />
