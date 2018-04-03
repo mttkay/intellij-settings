@@ -12,9 +12,10 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="development-local" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="development-local" type="PLAIN_TEXT" />
       <mapping pattern="with-config" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
