@@ -17,6 +17,7 @@
       <mapping pattern="with-config" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
+      <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
