@@ -22,6 +22,7 @@
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
