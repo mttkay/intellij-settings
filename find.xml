@@ -3,9 +3,11 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="!*.mxml,!*.html" />
+    <option name="FILE_MASK" value="*.json,!*.mxml,!*.html" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +18,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>!*.mxml,!*.html</mask>
+    <mask>*.json,!*.mxml,!*.html</mask>
   </component>
 </application>
