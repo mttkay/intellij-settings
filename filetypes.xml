@@ -14,6 +14,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="integration_tests" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="014_make_state_optional" type="PLAIN_TEXT" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
       <mapping pattern="with-config" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
