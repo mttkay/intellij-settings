@@ -3,5 +3,6 @@
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
+    <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
   </component>
 </application>
