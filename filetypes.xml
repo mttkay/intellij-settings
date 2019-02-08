@@ -22,6 +22,7 @@
       <mapping pattern="pre-production" type="PLAIN_TEXT" />
       <mapping pattern="integration_tests" type="PLAIN_TEXT" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="014_make_state_optional" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
@@ -29,6 +30,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
