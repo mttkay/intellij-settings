@@ -13,6 +13,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="development-am" type="PLAIN_TEXT" />
       <mapping pattern="ftp_batch_commands" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="fuga-secrets" type="PLAIN_TEXT" />
