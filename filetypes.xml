@@ -16,14 +16,16 @@
       <mapping pattern="ftp_batch_commands" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="fuga-secrets" type="PLAIN_TEXT" />
+      <mapping pattern="staging-am" type="PLAIN_TEXT" />
+      <mapping pattern="production-am" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern="with-config" type="PLAIN_TEXT" />
       <mapping pattern="pre-production" type="PLAIN_TEXT" />
       <mapping pattern="integration_tests" type="PLAIN_TEXT" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="014_make_state_optional" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="cdl" type="PLAIN_TEXT" />
