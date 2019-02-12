@@ -25,6 +25,7 @@
       <mapping pattern="pre-production" type="PLAIN_TEXT" />
       <mapping pattern="integration_tests" type="PLAIN_TEXT" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
+      <mapping pattern="staging-vetting-loader" type="PLAIN_TEXT" />
       <mapping pattern="014_make_state_optional" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping ext="awk" type="PLAIN_TEXT" />
