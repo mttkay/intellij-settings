@@ -8,7 +8,7 @@
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="1d1d1d" />
+    <option name="ANNOTATIONS_COLOR" value="" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3a3a3a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
@@ -27,7 +27,7 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="242424" />
+    <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="898941" />
     <option name="LINE_NUMBERS_COLOR" value="656565" />
     <option name="METHOD_SEPARATORS_COLOR" value="656565" />
@@ -39,6 +39,11 @@
     <option name="SELECTION_BACKGROUND" value="898941" />
     <option name="SELECTION_FOREGROUND" value="0" />
     <option name="TEARLINE_COLOR" value="656565" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
