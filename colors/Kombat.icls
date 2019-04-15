@@ -8,7 +8,7 @@
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
-    <option name="ANNOTATIONS_COLOR" value="" />
+    <option name="ANNOTATIONS_COLOR" value="1d1d1d" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3a3a3a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
@@ -39,7 +39,7 @@
     <option name="SELECTION_BACKGROUND" value="898941" />
     <option name="SELECTION_FOREGROUND" value="0" />
     <option name="TEARLINE_COLOR" value="656565" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="3c3f41" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
