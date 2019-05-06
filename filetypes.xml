@@ -18,6 +18,7 @@
       <mapping pattern="ftp_batch_commands" type="PLAIN_TEXT" />
       <mapping pattern="staging-common" type="PLAIN_TEXT" />
       <mapping pattern="staging-vetting-loader-local" type="PLAIN_TEXT" />
+      <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="fuga-secrets" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
