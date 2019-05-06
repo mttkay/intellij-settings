@@ -20,6 +20,7 @@
       <mapping pattern="staging-vetting-loader-local" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="fuga-secrets" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="staging-am" type="PLAIN_TEXT" />
       <mapping pattern="production-am" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
