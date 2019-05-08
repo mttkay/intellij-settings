@@ -11,10 +11,8 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="with-config" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="development-am" type="PLAIN_TEXT" />
       <mapping pattern="ftp_batch_commands" type="PLAIN_TEXT" />
       <mapping pattern="staging-common" type="PLAIN_TEXT" />
       <mapping pattern="staging-vetting-loader-local" type="PLAIN_TEXT" />
@@ -26,9 +24,9 @@
       <mapping pattern="production-am" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="with-config" type="PLAIN_TEXT" />
       <mapping pattern="pre-production" type="PLAIN_TEXT" />
       <mapping pattern="integration_tests" type="PLAIN_TEXT" />
-      <mapping pattern="development-am" type="PLAIN_TEXT" />
       <mapping pattern="staging-catalog-builder" type="PLAIN_TEXT" />
       <mapping pattern="development-local" type="PLAIN_TEXT" />
       <mapping pattern="staging-vetting-loader" type="PLAIN_TEXT" />
