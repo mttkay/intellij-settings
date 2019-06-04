@@ -11,6 +11,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="with-config" type="PLAIN_TEXT" />
       <mapping pattern="ftp_batch_commands" type="PLAIN_TEXT" />
